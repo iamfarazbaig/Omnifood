@@ -780,6 +780,7 @@ footer p
 .js--wp-1,.js--wp-3
 {
     opacity: 0;/*to make element invisible*/
+    animation-duration: 1s;
 }
 
 .js--wp-1.animated,
@@ -792,6 +793,7 @@ footer p
 .js--wp-3.animated,
 .js--wp-4.animated
 {
-    animation-delay: 3s;
+    animation-duration: 1s;
 }
+
 
