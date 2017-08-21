@@ -727,7 +727,7 @@ footer
 }
 
 .footer-nav li a:hover,
-.footer-nav li a:active,
+.footer-nav li a:active
 {
     color: #ddd;
 }
@@ -743,7 +743,7 @@ footer
 .ion-social-instagram-outline,
 .ion-social-linkedin
 {
-    transition: color: 0.2s
+    transition: color: 0.2s;
 }
 
 .ion-social-facebook:hover
@@ -790,7 +790,7 @@ footer p
 
 .js--wp-2.animated,
 .js--wp-3.animated,
-.js--wp-4.animated,
+.js--wp-4.animated
 {
     animation-delay: 3s;animation-duration: 5s;
 }
